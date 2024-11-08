@@ -53,4 +53,4 @@ end
 
 gem "tailwindcss-rails", "~> 2.7"
 
-gem 'psych', '~> 4.0'
+gem 'psych', '~> 5.2'
